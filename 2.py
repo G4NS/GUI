@@ -1,3 +1,6 @@
+#не работает
+
+
 import tkinter as tk
 
 class trans:
